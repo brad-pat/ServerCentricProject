@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/Users/brad/NetBeansProjects/SCCS%20CourseWork/shareSchema.xsd" uri="xml-resources/jaxb/sharesService/shareSchema.xsd"/>
+    <system systemId="http://localhost:8080/CurrencyConvertor/" uri="xml-resources/web-service-references/WsClient/wsdl/localhost_8080/CurrencyConvertor/index"/>
+    <system systemId="http://localhost:8080/CurrencyConvertor/CurrencyConversionWSService?wsdl" uri="wsdl/localhost_8080/CurrencyConvertor/CurrencyConversionWSService.wsdl"/>
+    <system systemId="http://localhost:8080/CurrencyConvertor/CurrencyConversionWSService?xsd=1" uri="wsdl/localhost_8080/CurrencyConvertor/CurrencyConversionWSService.xsd_1.xsd"/>
+</catalog>

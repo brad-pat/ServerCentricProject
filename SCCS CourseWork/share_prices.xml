@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Shares_Collection xmlns="http://xml.netbeans.org/schema/Shares">
+    <Shares_List>
+        <Name>Brunner Investment Trust Plc Preferred Shares</Name>
+        <Symbol>44GL.L</Symbol>
+        <Shares>450000</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>100.0</Share_Value>
+            <Share_LastUpdated>2017-01-07Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SG ISSU/EQ LKD NT 20250312   UNSEC/</Name>
+        <Symbol>5UKL.L</Symbol>
+        <Shares>1000</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>121.81</Share_Value>
+            <Share_LastUpdated>2020-01-10Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SG ISSU/EQ LKD NT 20260305   SECD</Name>
+        <Symbol>5WTI.L</Symbol>
+        <Shares>200000</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>7.97</Share_Value>
+            <Share_LastUpdated>2020-01-20Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>ASHE GLOB/NPV VTG FPD</Name>
+        <Symbol>AGOL.L</Symbol>
+        <Shares>1065656</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>1.47</Share_Value>
+            <Share_LastUpdated>2019-01-18Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>BOI/NCU PREF STK CL-A</Name>
+        <Symbol>BKIC.L</Symbol>
+        <Shares>1876090</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>18.0</Share_Value>
+            <Share_LastUpdated>2020-01-14Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>UBS London/ETC Perp Othr</Name>
+        <Symbol>BRTG.L</Symbol>
+        <Shares>1100</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>45.05</Share_Value>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>UBS London/ETC Perp Othr</Name>
+        <Symbol>CMGB.L</Symbol>
+        <Shares>350000</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>58.12</Share_Value>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SG ISSU/EQ LKD NT 20250312   UNSEC/</Name>
+        <Symbol>EU5L.L</Symbol>
+        <Shares>50000</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>40.49</Share_Value>
+            <Share_LastUpdated>2019-01-07Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR I/SHS USD</Name>
+        <Symbol>EMIN.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>49.19</Share_Value>
+            <Share_LastUpdated>2020-01-13Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>PIMCO FXD/SHS CL-ACCUMG USD</Name>
+        <Symbol>EMLP.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>82.63</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR I/SHS USD</Name>
+        <Symbol>EMRG.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>46.41</Share_Value>
+            <Share_LastUpdated>2020-01-20Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR I/SHS USD</Name>
+        <Symbol>EMSM.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>62.4</Share_Value>
+            <Share_LastUpdated>2020-01-20Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR I/SHS EUR</Name>
+        <Symbol>EMUE.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>46.58</Share_Value>
+            <Share_LastUpdated>2020-01-09Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>UBS London/ETC Perp Othr</Name>
+        <Symbol>ENGB.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>43.95</Share_Value>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>ISHS IV/SHS CL-DIS EUR</Name>
+        <Symbol>ERN1.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>85.31</Share_Value>
+            <Share_LastUpdated>2020-01-20Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>ISHS IV/SHS GBP</Name>
+        <Symbol>ERNS.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>100.41</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>ISHS IV/SHS CL-DIS USD</Name>
+        <Symbol>ERNU.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>76.82</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR II/SHS USD</Name>
+        <Symbol>ERO.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>191.98</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SG ISSU/EQ LKD NT 20250312   UNSEC/</Name>
+        <Symbol>EU5L.L</Symbol>
+        <Shares>50000</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>40.49</Share_Value>
+            <Share_LastUpdated>2019-01-07Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR I/SHS EUR</Name>
+        <Symbol>EUDV.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>21.05</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR I/SHS EUR</Name>
+        <Symbol>EURL.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>30.73</Share_Value>
+            <Share_LastUpdated>2020-01-20Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR II/SHS USD</Name>
+        <Symbol>EUSC.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>219.55</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR II/SHS EUR</Name>
+        <Symbol>EUSV.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>32.74</Share_Value>
+            <Share_LastUpdated>2020-01-20Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR II/SHS EUR</Name>
+        <Symbol>EVAL.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>30.52</Share_Value>
+            <Share_LastUpdated>2020-01-16Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>FID UCIT/SHS CL-ACCUMG USD</Name>
+        <Symbol>FEMQ.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>4.24</Share_Value>
+            <Share_LastUpdated>2020-01-17Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>FID UCIT/SHS CL-ACCUMG EUR</Name>
+        <Symbol>FEQD.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>4.76</Share_Value>
+            <Share_LastUpdated>2019-01-03Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>FID UCIT/SHS CL-ACCUMG GBP</Name>
+        <Symbol>FEQP.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>5.89</Share_Value>
+            <Share_LastUpdated>2020-01-06Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>FID UCIT/SHS CL-ACCUMG GBP</Name>
+        <Symbol>FGQP.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>6.11</Share_Value>
+            <Share_LastUpdated>2020-01-15Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>FRANKLIN LIB/SHS EUR</Name>
+        <Symbol>FLXD.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>22.13</Share_Value>
+            <Share_LastUpdated>2020-01-17Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>FRANKLIN LIB/UT USD</Name>
+        <Symbol>FLXE.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>18.84</Share_Value>
+            <Share_LastUpdated>2019-01-11Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>FRANKLIN LIB/UT USD</Name>
+        <Symbol>FLXG.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>24.11</Share_Value>
+            <Share_LastUpdated>2020-01-20Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>FRANKLIN LIB/UT USD</Name>
+        <Symbol>FLXU.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>26.57</Share_Value>
+            <Share_LastUpdated>2019-01-09Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>FRANKLIN LIB/UT USD</Name>
+        <Symbol>FLXX.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>21.41</Share_Value>
+            <Share_LastUpdated>2019-01-20Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>VANECK VECT/SHS CL-A USD</Name>
+        <Symbol>GDGB.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>23.21</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>LYX.GLOBAL GENDER E/USD</Name>
+        <Symbol>GEND.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>9.11</Share_Value>
+            <Share_LastUpdated>2020-01-20Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>VANECK VECT/SHS CL-A USD</Name>
+        <Symbol>GFGB.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>42.32</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>ISHS VI/SHS GBP</Name>
+        <Symbol>GHYS.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>99.01</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>VANECK VECT/SHS CL-A USD</Name>
+        <Symbol>GIGB.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>16.41</Share_Value>
+            <Share_LastUpdated>2020-01-17Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>JPM ETF(IR)/SHS CL-ACC EUR</Name>
+        <Symbol>J13E.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>83.82</Share_Value>
+            <Share_LastUpdated>2019-01-13Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>JPM ETF(IR)/SHS CL-DIST USD</Name>
+        <Symbol>J13U.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>79.44</Share_Value>
+            <Share_LastUpdated>2019-01-30Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>JPM ETF(IR)/SHS CL-DIST GBP</Name>
+        <Symbol>JG15.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>100.52</Share_Value>
+            <Share_LastUpdated>2020-01-08Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>JPM ETF(IR)/SHS CL-DIST GBP</Name>
+        <Symbol>JGST.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>100.69</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+    <Shares_List>
+        <Name>SSGA SPDR I/SHS USD</Name>
+        <Symbol>JNKS.L</Symbol>
+        <Shares>0</Shares>
+        <Share_Price>
+            <Share_Currency>GBP</Share_Currency>
+            <Share_Value>36.0</Share_Value>
+            <Share_LastUpdated>2020-01-21Z</Share_LastUpdated>
+        </Share_Price>
+    </Shares_List>
+</Shares_Collection>
